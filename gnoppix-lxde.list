@@ -1,0 +1,39 @@
+live-task-lxde
+task-lxde-desktop
+
+# Crossarch media player
+parole
+
+# video encoder for the H.264/MPEG-4 AVC
+x264
+
+
+# YT Video Browser 
+smtube
+
+# Sass CSS precompiler
+sassc
+
+# cairo-based gtk+-2.0 theme engine
+gtk2-engines-murrine
+
+# Appmenu DBusMenu registrar
+appmenu-registrar
+
+# XFCE notifications 
+#vala-sntray-plugin
+#vala-panel-appmenu
+
+# Gnoppix extra tools 
+jq
+curl
+
+
+# lightDM replacement  
+slick-greeter
+
+# Extra shell themes
+zsh-theme-powerlevel9k
+
+# LXDE Desktop
+gnome-calendar
